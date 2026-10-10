@@ -1,4 +1,4 @@
-# Hola, soy José Ignacio 👋
+# Hola, soy José Ignacio Segovia Ramírez 👋
 
 Soy desarrollador web con PHP y Laravel y busco mi primera oportunidad como desarrollador.
 
