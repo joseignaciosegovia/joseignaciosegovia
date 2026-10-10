@@ -8,4 +8,4 @@ Desarrollador web con PHP y Laravel.
 
 ## Contacto
 
-- Email: (josegoviaramirez@gmail.com)
+- Email: josegoviaramirez@gmail.com
