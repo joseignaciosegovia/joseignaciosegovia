@@ -8,5 +8,4 @@ Soy desarrollador web con PHP y Laravel y busco mi primera oportunidad como desa
 
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-ignacio-segovia-ram%C3%ADrez-1b7a95442
 - Email: josegoviaramirez@gmail.com
