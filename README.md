@@ -18,9 +18,13 @@ Aplicación web para reservar pistas deportivas de un municipio. Los clientes re
 ## Stack
 
 **Back-end:** PHP · Laravel · Livewire · Volt
+
 **Front-end:** Blade · Bootstrap 5 · JavaScript · Vite
+
 **Bases de datos:** SQLite · MySQL · PostgreSQL
+
 **Testing y CI:** PHPUnit · Mockery · GitHub Actions
+
 **Herramientas:** Git · GitHub · Docker · Render
 
 ## Contacto
